@@ -100,12 +100,7 @@ function assignEmployeesToEvents() {
    - **Event source:** `Time-driven`  
    - **Type:** `Day timer` (or adjust as needed)  
    - **Time of day:** Select your preferred execution time  
-4. Click **Save**.  
-
----
-
-## 📸 Screenshots  
-*(Optional: Add screenshots of your Google Calendar setup or script execution.)*  
+4. Click **Save**.   
 
 ---
 
