@@ -85,6 +85,7 @@ function assignEmployeesToEvents() {
         });
     });
 }
+```
 3. **Replace** `YOUR_SHIFTS_CALENDAR_ID` **and** `YOUR_EVENTS_CALENDAR_ID` **with your actual calendar IDs.**  
 4. Click **Save**.  
 
@@ -138,4 +139,3 @@ function assignEmployeesToEvents() {
 ---
 
 ### **🚀 Enjoy hassle-free scheduling with Shift2Event!** 🎉
-
