@@ -133,7 +133,7 @@ function assignEmployeesToEvents() {
 
 ## 🤖 ChatGPT Assistance  
 This project was enhanced with the help of **ChatGPT**, an AI-powered assistant.  
-ChatGPT provided guidance, script optimization, and structured documentation support to streamline the development of **Shift2Event**.  
+ChatGPT provided script optimization, and structured documentation (README) support to streamline the development of **Shift2Event**.  
 
 ---
 
