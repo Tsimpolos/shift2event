@@ -85,3 +85,57 @@ function assignEmployeesToEvents() {
         });
     });
 }
+3. **Replace** `YOUR_SHIFTS_CALENDAR_ID` **and** `YOUR_EVENTS_CALENDAR_ID` **with your actual calendar IDs.**  
+4. Click **Save**.  
+
+---
+
+## ⏳ Set Up an Automatic Trigger  
+
+1. Open **Triggers** in Google Apps Script (`🕒` clock icon).  
+2. Click **+ Add Trigger**.  
+3. Configure the trigger:  
+   - **Function to run:** `assignEmployeesToEvents`  
+   - **Event source:** `Time-driven`  
+   - **Type:** `Day timer` (or adjust as needed)  
+   - **Time of day:** Select your preferred execution time  
+4. Click **Save**.  
+
+---
+
+## 📸 Screenshots  
+*(Optional: Add screenshots of your Google Calendar setup or script execution.)*  
+
+---
+
+## 💡 Use Cases  
+✔ **HR Scheduling** – Assign employees to relevant company events automatically.  
+✔ **Event Management** – Keep guest lists updated for shift-based roles.  
+✔ **Automated Scheduling** – Reduce manual errors and save time.  
+
+---
+
+## 🤝 Contributing  
+🙌 Contributions are welcome! If you have improvements, feel free to submit a **pull request**.  
+
+---
+
+## 📜 License  
+📝 This project is licensed under the **MIT License** – free to use and modify.  
+
+---
+
+## 🚀 Future Improvements  
+🔹 Add Google Sheets integration for easier shift management.  
+🔹 Implement Slack/Email notifications for employees.  
+🔹 Build a user-friendly dashboard for shift monitoring.  
+
+---
+
+## 📬 Contact  
+📧 If you have questions, feel free to open an **issue** or reach out at `your-email@example.com`.  
+
+---
+
+### **🚀 Enjoy hassle-free scheduling with Shift2Event!** 🎉
+
