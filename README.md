@@ -17,8 +17,8 @@ This eliminates the need for **manual guest additions** in Google Calendar and e
 ## 📌 How It Works  
 
 ### **Two Google Calendars**
-- 🏢 **Employee Shifts Calendar** → Stores shift schedules of employees.  
-- 📅 **Company Events Calendar** → Stores events where employees need to be assigned.  
+- 🏢 **Employee Shifts Calendar** → Stores shift schedules of employees. Employee's e-mail should be included in the guests list.
+- 📅 **Company Events Calendar** → Stores events where employees need to be assigned. The script will automatically add employee's email to the guest list of the event
 
 ### **Automated Matching**
 - 🔄 The script scans both calendars and **identifies time overlaps** between shifts and events.  
