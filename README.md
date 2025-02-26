@@ -129,7 +129,11 @@ function assignEmployeesToEvents() {
 ---
 
 ## 📬 Contact  
-📧 If you have questions, feel free to open an **issue** or reach out at `your-email@example.com`.  
+📧 If you have questions, feel free to open an **issue** or reach out at `tsimpourisp@gmail.com`.  
+
+## 🤖 ChatGPT Assistance  
+This project was enhanced with the help of **ChatGPT**, an AI-powered assistant.  
+ChatGPT provided guidance, script optimization, and structured documentation support to streamline the development of **Shift2Event**.  
 
 ---
 
